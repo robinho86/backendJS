@@ -1,0 +1,26 @@
+// ATIVIDADE EXECUTADA PARA TREINO
+//abaixo a declaração de variavéis
+// let é usado em variáveis que podem ser alteradas no futuro
+// const são variáveis que não serão alteradas
+// o comando console.log faz a leitura de dados
+// na atividade pode usar virgula, mais e $(cifrão) para separar falas de variáveis
+// no imc foi o dobro da altura foi multiplicado a variável altura 2 vezes 
+// mas também pode ser feita da seguinte maneira **2 assim também eleva
+
+let nome="Robson";
+let idade= 38;
+let altura= 1.72;
+const estudante= true;
+const peso= 71;
+const dobro= idade*2;
+console.log(dobro)
+const metade= altura/2
+console.log(metade)
+const IMC= peso/(altura*altura)
+console.log(IMC)
+
+console.log("Meu nome é "+nome+", tenho",idade,"anos, minha altura é", altura,"metros.")
+console.log("Sou estudante:", estudante);
+console.log("O dobro da minha idade é ",dobro);
+console.log("A metade da minha altura é", metade)
+console.log("Meu IMC é:", IMC)
