@@ -9,3 +9,9 @@ ctrl+; transforma o código em comentário
 
 recebe dados
 const (variavel) = 'o que você quer declarar';
+
+console.log (como se fosse o comando escreva)
+let nome = "Robson";
+const nome = "Souza';
+let e const são variaveis declaradas
+
