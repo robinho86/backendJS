@@ -1,0 +1,11 @@
+code runner
+Live server
+material icon theme
+
+
+ctrl+S :salvar
+Alt+setas: move a linha
+ctrl+; transforma o código em comentário
+
+recebe dados
+const (variavel) = 'o que você quer declarar';
